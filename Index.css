@@ -29,16 +29,16 @@ body{
      justify-content:left;
 }
 .p1-main-left span {
-    font-size: 20px;
+    font-size: 10px;
     font-weight:bolder;
     
 }
 .p1-main-left h1{
-    font-size:30px;
+    font-size:15px;
     color: darkcyan;
 }
 .p1-main-left p{
-    font-size: medium;
+    font-size: small;
 }
 
 .p1-main-left button{
